@@ -1,4 +1,5 @@
 {
+    "name": "dev-sharepoint-integration-tenant",
     "version": "0.0.1",
     "private": true,
     "engines": {
